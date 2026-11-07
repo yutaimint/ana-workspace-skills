@@ -1,0 +1,6 @@
+{
+  "exec_url": "https://script.google.com/a/macros/<ドメイン>/s/<デプロイ ID>/exec",
+  "editor_url": "https://script.google.com/home/projects/<スクリプト ID>/edit",
+  "expected_user": "<自分の Google Workspace アカウント>",
+  "chrome_device_id": "<Claude in Chrome で選ぶ Windows のブラウザ ID>"
+}
